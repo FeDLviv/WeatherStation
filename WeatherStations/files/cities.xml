@@ -1,0 +1,13 @@
+<list>
+	<path url="http://openweathermap.org/forecast#bulk">Bulk download examples</path>
+	<city id="689558" name="Вінниця"/>
+	<city id="708901" name="Гайсин"/>
+	<city id="703448" name="Київ"/>
+	<city id="702550" name="Львів"/>
+	<city id="703845" name="Кривий Ріг"/>
+	<city id="709930" name="Дніпро"/>
+	<city id="688533" name="Ялта"/>
+	<city id="709717" name="Донецьк"/>
+	<city id="690548" name="Ужгород"/>
+	<city id="706483" name="Харків"/>
+</list>
